@@ -1,52 +1,59 @@
-/* 
-	Everything style related
- */
-
 * {
 	font-family: 'Raleway', sans-serif;
+	text-align: center;
+	color: #ca6d5c;
 }
 
-.nav {
-	position: fixed;
-	top: 0;
-	padding: 1rem;
-	border-bottom: 1px solid black;
-	width: 100%;
-	background-color: white;
+body {
+	background: #F7F5F6;
 }
 
-.intro {
-	margin-top: 55px;
-	width: 80%;
-	padding: 2rem;
+.nav p {
+	font-size: 17px;
+	margin: 30px auto;
 }
 
-.content {
-	display: flex;
-	justify-content: space-around;
-	flex-wrap: wrap;
-	align-items: center;
+.intro h1 {
+	font-size: 20px;
+	margin-top: 40px;
+	margin-bottom: 5px;
 }
 
-.example {
-	margin-left: 1rem;
-	margin-bottom: 1.5rem;
-}
-
-.example img {
-	width: 500px;
-	padding-bottom: .5rem;
-	border-bottom: 1px solid black;
-}
-
-.number {
+.intro h3 {
 	display: inline-block;
-	margin: 0;
-	font-size: 2rem;
+	max-width: 80%;
+	color: #2e2e2e;
+	margin-top: 0;
+	margin-bottom: 30px;
+	font-size: 15px;
+	font-weight: 300;
+	letter-spacing: 0.6px;
 }
 
-@media (max-width: 576px) {
-	.example img {
-		width: 250px;
-	}
+.media {   
+	display:inline-block;    
+	margin: auto; 
+	line-height: 0;       
+	 -webkit-column-count: 5;    
+	 -webkit-column-gap: 0px;    
+	 -moz-column-count: 5;
+	 -moz-column-gap: 0px;
+		column-count: 4;    
+		column-gap: 0px;
+}  
+
+.media img {    
+	width: 100% !important;    
+	height: auto !important;
+	transition: .7s;
+} 
+
+section img:hover {
+	transform: scale(1.02);
+	background: 
+  	linear-gradient( 
+		rgba(0, 0, 0, 0.45),  
+		rgba(0, 0, 0, 0.45)
+	);
 }
+
