@@ -11,7 +11,7 @@ To make it easier, I've set up all you need in order to have a basic running web
 I'll keep all the websites you create in a list here below, so once you have it live, submit a PR request with a link to your created website and it'll appear here!
 
 1. [https://danascript.github.io/algtivism/](https://danascript.github.io/algtivism/)
-2.
+2. [https://georginapuig.github.io/algtivism/](https://georginapuig.github.io/algtivism/)
 3.
 
 ---
