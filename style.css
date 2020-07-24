@@ -3,50 +3,63 @@
  */
 
 * {
-	font-family: 'Josefin Slab', serif;
+  font-family: "Josefin Slab", serif;
 }
 
 .nav {
-	position: fixed;
-	top: 0;
-	padding: 1rem;
-	border-bottom: 1px solid black;
-	width: 100%;
-	background-color: white;
+  position: fixed;
+  top: 0;
+  padding: 1.5rem 0;
+  border-bottom: 1px solid black;
+  width: 100%;
+  background-color: #211d1d;
+  color: #fff;
+  text-align: center;
 }
 
 .intro {
-	margin-top: 55px;
-	width: 80%;
-	padding: 2rem;
+  margin-top: 55px;
+  padding: 3rem;
+  text-align: center;
 }
 
 .content {
-	display: flex;
-	justify-content: space-around;
-	flex-wrap: wrap;
-	align-items: center;
-}
-
-.example {
-	margin-left: 1rem;
-	margin-bottom: 1.5rem;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 20px;
 }
 
 .example img {
-	width: 500px;
-	padding-bottom: .5rem;
-	border-bottom: 1px solid black;
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
 }
 
 .number {
-	display: inline-block;
-	margin: 0;
-	font-size: 2rem;
+  visibility: hidden;
+  margin: 0;
+  font-size: 2rem;
 }
 
 @media (max-width: 576px) {
-	.example img {
-		width: 250px;
-	}
+  .example img {
+    width: 250px;
+  }
+}
+
+@media (min-width: 768px) {
+  .number {
+    visibility: visible;
+    display: inline-block;
+  }
+
+  .example {
+    margin-bottom: 1.5rem;
+  }
+
+  .intro {
+    padding: 2rem 10rem;
+  }
 }
