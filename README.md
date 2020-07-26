@@ -16,8 +16,7 @@ I'll keep all the websites you create in a list here below, so once you have it 
 4. [https://hairyfrogfish.github.io/algtivism/](https://hairyfrogfish.github.io/algtivism/)
 5. [https://syedacodes.github.io/algtivism/](https://syedacodes.github.io/algtivism/)
 6. [https://caputocode.github.io/algtivism/](https://caputocode.github.io/algtivism/)
-7. [https://funnyyouask.github.io/algtivism/](https://funnyyouask.github.io/algtivism/)
-8. 
+7. 
 
 ---
 
