@@ -4,7 +4,7 @@ Algtivism is a social project aimed to storm the search results of search engine
 
 To make it easier, I've set up all you need in order to have a basic running website and documented some steps/guide as to what to change (if you want to), where and how to find things.
 
-You can also watch a video guide [here](https://www.youtube.com/watch?v=24zFySpnBP4)
+OR Watch it on YouTube [here](https://www.youtube.com/watch?v=24zFySpnBP4)!
 
 ---
 
