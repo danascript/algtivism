@@ -24,7 +24,7 @@ I'll keep all the websites you create in a list here below, so once you have it 
 10. [https://www.thenewprofessionalsonline.com/](https://www.thenewprofessionalsonline.com/)
 11. [https://walamotamed.github.io/algtivism/](https://walamotamed.github.io/algtivism/)
 12. [https://bulliana.github.io/algtivism/](https://bulliana.github.io/algtivism/)
-13. [https://aybakes.github.io/algtivism/] (https://aybakes.github.io/algtivism/)
+13. [https://aybakes.github.io/algtivism/](https://aybakes.github.io/algtivism/) 
 14.
 
 ---
