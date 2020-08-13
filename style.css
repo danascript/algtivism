@@ -3,50 +3,55 @@
  */
 
 * {
-	font-family: 'Josefin Slab', serif;
+    font-family: "Josefin Slab", serif;
 }
 
 .nav {
-	position: fixed;
-	top: 0;
-	padding: 1rem;
-	border-bottom: 1px solid black;
-	width: 100%;
-	background-color: white;
+    position: fixed;
+    top: 0;
+    padding: 1rem;
+    border-bottom: 1px solid black;
+    width: 100%;
+    background-color: white;
 }
 
 .intro {
-	margin-top: 55px;
-	width: 80%;
-	padding: 2rem;
+    margin-top: 55px;
+    width: 80%;
+    padding: 2rem;
 }
 
 .content {
-	display: flex;
-	justify-content: space-around;
-	flex-wrap: wrap;
-	align-items: center;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
 }
 
 .example {
-	margin-left: 1rem;
-	margin-bottom: 1.5rem;
+    margin-left: 1rem;
+    margin-bottom: 1.5rem;
 }
 
 .example img {
-	width: 500px;
-	padding-bottom: .5rem;
-	border-bottom: 1px solid black;
+    width: 500px;
+    padding: 0.5rem;
+    border: 1px solid white;
+    border-bottom: 1px solid black;
+}
+
+.example img:hover {
+    border: 1px solid black;
 }
 
 .number {
-	display: inline-block;
-	margin: 0;
-	font-size: 2rem;
+    display: inline-block;
+    margin: 0;
+    font-size: 2rem;
 }
 
 @media (max-width: 576px) {
-	.example img {
-		width: 250px;
-	}
+    .example img {
+        width: 250px;
+    }
 }
