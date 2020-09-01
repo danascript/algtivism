@@ -1,9 +1,9 @@
 ## 01.09.2020 UPDATE
-Hey! For the time being, in order to make an impact we need the websites to have a slightly different content. This means 2 things:
+Hey! For the time being, in order to make an impact, we need the websites to have a slightly different content. This means 2 things:
 1. I'm working on creating a randomiser for the content of your website so we still keep it easy-peasy contribution with one click
-2. If you do fork the project after this date, please change the content around (scroll down to see the different suggestions I have for the meta tags of description, title and change up some pics, add text, go wild!)
+2. If you do fork the project after this date, please change the content around (scroll down to see the different suggestions I have for the meta tags of description&title, change up some pics, add text, go wild!), the structure can remain the same
 
-I'll update you once the randmosier is done, until then there is a 99% chance our websites are going to be blocked by Google :( (DuckDuckGo and Ecosia are fine though)
+I'll update you once the randmosier is done, but until then there is a 99% chance our websites are going to be blocked by Google :( (DuckDuckGo and Ecosia are fine though)
 
 Now that you are informed you can choose what you wish to do :) Thanks!
 
