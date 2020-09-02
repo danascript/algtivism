@@ -1,3 +1,7 @@
+const adjustCanonicalLink =()=> {
+    document.querySelector('link[rel="canonical"]').href = document.URL
+}
+
 const getSeoData = () => {
     const pageTitle = document.title
     const pageUrl = document.URL
@@ -16,6 +20,8 @@ const setOgSeoData = ({ pageTitle, pageUrl, pageDescription, pageImg }) => {
 }
 
 getSeoData()
+adjustCanonicalLink()
+
 /*
  * Add here any JavaScript you want to use
  */
