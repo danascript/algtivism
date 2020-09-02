@@ -1,3 +1,13 @@
+## 01.09.2020 UPDATE
+Hey! For the time being, in order to make an impact, we need the websites to have a slightly different content. This means 2 things:
+1. I'm working on creating a randomiser for the content of your website so we still keep it easy-peasy contribution with one click
+2. If you do fork the project after this date, please change the content around (scroll down to see the different suggestions I have for the meta tags of description&title, change up some pics, add text, go wild!), the structure can remain the same
+
+I'll update you once the randmosier is done, but until then there is a 99% chance our websites are going to be blocked by Google :( (DuckDuckGo and Ecosia are fine though)
+
+Now that you are informed you can choose what you wish to do :) Thanks!
+
+
 ## Algtivism
 
 Algtivism is a social project aimed to storm the search results of search engines by normalizing inclusion and diversity. Feel free to fork it but use it responsibly.
@@ -27,7 +37,12 @@ I'll keep all the websites you create in a list here below, so once you have it 
 13. [https://aybakes.github.io/algtivism/](https://aybakes.github.io/algtivism/) 
 14. [https://chris-dvlpr.github.io/algtivism/](https://chris-dvlpr.github.io/algtivism/)
 15. [https://antsukelee.github.io/algtivism/](https://antsukelee.github.io/algtivism/)
-16. 
+16. [https://matias2018.github.io/algtivism/](https://matias2018.github.io/algtivism/)
+17. [https://harshdevl.github.io/algtivism/](https://harshdevl.github.io/algtivism/)
+18. [https://emmahowes25.github.io/algtivism/](https://emmahowes25.github.io/algtivism/) 
+19. [https://architechnique.github.io/algtivism/](https://architechnique.github.io/algtivism/)
+20. [https://algtivism.nathanhawkes.co.uk/](https://algtivism.nathanhawkes.co.uk/)
+21. 
 
 ---
 
